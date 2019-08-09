@@ -1,6 +1,16 @@
 # Python-Resources-2019
 A curated list of Python resources, books, websites, tutorials, code challenges
 
+#### IDE
+
+* [_PyCharm Community Edition_](https://www.jetbrains.com/pycharm/) A great free IDE, has most of the features you'll 
+want.
+
+#### Solutions
+
+* [_Awesome Python_](https://github.com/vinta/awesome-python) "A curated list of awesome Python frameworks, libraries,
+ software and resources"
+
 #### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
