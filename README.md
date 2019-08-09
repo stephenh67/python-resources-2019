@@ -54,6 +54,8 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 
 * [_Google Python Style Guide_](https://google.github.io/styleguide/pyguide.html)
 
+* [_The Hitchhiker’s Guide to Python_](https://docs.python-guide.org/)
+
 #### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
