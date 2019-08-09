@@ -22,7 +22,9 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 
 * [_Python for Everybody_](https://www.py4e.com/) A full Python course.
 
-* [_Codecademy_](https://www.codecademy.com/) Codecademy has a free 7 day trial, and has several Python courses. 
+* [_Codecademy_](https://www.codecademy.com/) Codecademy has a free 7 day trial, and has several Python courses.
+
+* [_The Python Tutorial_](https://docs.python.org/3.7/tutorial/index.html) 
 
 
 #### Solutions
@@ -37,6 +39,12 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 * [_pythonforbeginners Code-snippets_](https://www.pythonforbeginners.com/code-snippets-source-code/)
 
 * [_CodesCracker Python Programming Examples_](https://codescracker.com/python/program/index.htm)
+
+#### Documentation
+
+* [_Python 3.7.4 documentation_](https://codescracker.com/python/program/index.htm)
+
+* 
 
 #### Books
 
