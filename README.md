@@ -44,7 +44,7 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 
 * [_Python 3.7.4 documentation_](https://codescracker.com/python/program/index.htm)
 
-* 
+* [_PEP 8 -- Style Guide for Python Code_](https://www.python.org/dev/peps/pep-0008/)
 
 #### Books
 
