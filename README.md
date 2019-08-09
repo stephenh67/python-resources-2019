@@ -34,6 +34,10 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 
 * [_ActiveState Code » Recipes_](http://code.activestate.com/recipes/langs/python/) Popular Python recipes
 
+* [_pythonforbeginners Code-snippets_](https://www.pythonforbeginners.com/code-snippets-source-code/)
+
+* [_CodesCracker Python Programming Examples_](https://codescracker.com/python/program/index.htm)
+
 #### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
@@ -77,7 +81,9 @@ in the dojo and reach your highest potential.
 completing the problems.
 
 * [_Stepik_](https://stepik.org/) 100s of problems with adaptive difficulty.
- 
+
+#### Community
+
 * [_Python on Reddit_](https://www.reddit.com/r/learnpython/wiki/index) 
 
     - /r/python ­— News about the dynamic, interpreted, interactive, object-oriented, extensible programming language Python.
