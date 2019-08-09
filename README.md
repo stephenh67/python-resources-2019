@@ -19,6 +19,10 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 * [_Awesome Python_](https://github.com/vinta/awesome-python) "A curated list of awesome Python frameworks, libraries,
  software and resources"
 
+#### Sample Code
+
+* [_ActiveState Code » Recipes_](http://code.activestate.com/recipes/langs/python/) Popular Python recipes
+
 #### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
