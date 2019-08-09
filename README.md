@@ -30,6 +30,8 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 
 * [_Real Python Tutorials_](https://realpython.com/)
 
+* [_Sololearn Python Class_](https://www.sololearn.com/)
+
 
 #### Solutions
 
