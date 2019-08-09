@@ -94,12 +94,18 @@ completing the problems.
 
 #### Community
 
+* [_stackoverflow_](https://stackoverflow.com/questions/tagged/python) If you have a question you'll almost always find 
+an answer here.
+
 * [_Python on Reddit_](https://www.reddit.com/r/learnpython/wiki/index) 
 
-    - /r/python ­— News about the dynamic, interpreted, interactive, object-oriented, extensible programming language Python.
+    - /r/python ­— News about the dynamic, interpreted, interactive, object-oriented, extensible programming language 
+    Python.
     - /r/learnprogramming
-    - /r/dailyprogrammer — The focus of this subreddit is to provide bi-daily challenges to keep your mind and fingers busy between projects.
-    - /r/progether — Progether is about bringing programmers together on common projects, whether it is learning or developing or designing or what have you. 
+    - /r/dailyprogrammer — The focus of this subreddit is to provide bi-daily challenges to keep your mind and fingers 
+    busy between projects.
+    - /r/progether — Progether is about bringing programmers together on common projects, whether it is learning or 
+    developing or designing or what have you. 
     - /r/LearnMachineLearning — A subreddit dedicated for learning machine learning.
     - /r/PythonPuzzles ­— Regular code puzzles in the Python programming languages
  
