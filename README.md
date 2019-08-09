@@ -6,13 +6,18 @@ A curated list of Python resources, books, websites, tutorials, code challenges
 * [_PyCharm Community Edition_](https://www.jetbrains.com/pycharm/) A great free IDE, has most of the features you'll 
 want.
 
-* [_Andaconda_](https://www.anaconda.com) "The open-source Anaconda Distribution is the easiest way to perform Python/R 
+* [_Anaconda_](https://www.anaconda.com) "The open-source Anaconda Distribution is the easiest way to perform Python/R 
 data science and machine learning on Linux, Windows, and Mac OS X"
     - Quickly download 1,500+ Python/R data science packages
     - Manage libraries, dependencies, and environments with Conda
     - Develop and train machine learning and deep learning models with scikit-learn, TensorFlow, and Theano
     - Analyze data with scalability and performance with Dask, NumPy, pandas, and Numba
     - Visualize results with Matplotlib, Bokeh, Datashader, and Holoviews
+
+#### Tutorials
+
+* [_w3schools Python Tutorial_](https://www.w3schools.com/python/default.asp) 
+
 
 #### Solutions
 
