@@ -1,13 +1,13 @@
 # Python-Resources-2019
 A list of Python resources, books, websites, tutorials, code challenges
 
-##### Books
+#### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) - Zed Shaw.  A good starting place if you are 
 new to python. Note there's earlier version _Learn Python the Hard Way_ that uses Python 2.
   
 
-##### Practice Problems with Solutions
+#### Practice Problems with Solutions
 
 * [_w3resource's Python Exercises_](https://www.w3resource.com/python-exercises/), 100s of exercises with solutions, 
 includes several external packages. 
@@ -16,7 +16,7 @@ includes several external packages.
 * [_Practice Python_](http://www.practicepython.org/) Over 30 beginner Python exercises with solutions
 
 
-##### Coding Challenges
+#### Coding Challenges
 
 * [_CheckIO_](https://checkio.org/) Coding games for beginners and advanced programmers where you can improve your 
 coding skills by solving engaging challenges and fun task using Python, has PyCharm integration.
@@ -33,7 +33,7 @@ completing the problems.
 
 * [_Stepik_](https://stepik.org/) 100s of problems with adaptive difficulty.
  
-#####Other Resources
+#### Other Resources
 
 * [_Pixabay_](https://pixabay.com/) Over 1 million+ high quality stock images and videos shared by our talented 
 community.
