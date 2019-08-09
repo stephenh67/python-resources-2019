@@ -1,5 +1,5 @@
 # Python-Resources-2019
-A list of Python resources, books, websites, tutorials, code challenges
+A curated list of Python resources, books, websites, tutorials, code challenges
 
 #### Books
 
@@ -15,6 +15,9 @@ programming.
 
 * [_Automate the Boring Stuff with Python_](https://nostarch.com/automatestuff2) Practical programming for complete 
 beginners.
+
+* [_How to Think Like a Computer Scientist: Interactive Edition_](
+https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
 #### Practice Problems with Solutions
 
