@@ -16,7 +16,7 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 
 #### Tutorials
 
-* [_w3schools Python Tutorial_](https://www.w3schools.com/python/default.asp) 
+* [_w3schools Python Tutorial_](https://www.w3schools.com/python/default.asp) Clear and concise. 
 
 * [_Programiz_](https://www.programiz.com/python-programming) Learn Python Programming: The Definitive Guide
 
@@ -24,13 +24,15 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 
 * [_Codecademy_](https://www.codecademy.com/) Codecademy has a free 7 day trial, and has several Python courses.
 
-* [_The Python Tutorial_](https://docs.python.org/3.7/tutorial/index.html) 
+* [_The Python Tutorial_](https://docs.python.org/3.7/tutorial/index.html) The official tutorial.
 
-* [_Google's Python Class_](https://developers.google.com/edu/python/)
+* [_Google's Python Class_](https://developers.google.com/edu/python/) Videos and exercises from a two day Python
+ class.
 
-* [_Real Python Tutorials_](https://realpython.com/)
+* [_Real Python Tutorials_](https://realpython.com/) Short tutorials on a wide range of subjects.
 
-* [_Sololearn Python Class_](https://www.sololearn.com/)
+* [_Sololearn Python Class_](https://www.sololearn.com/) Learn on the web and on the go. Available on all major 
+devices and platforms. 
 
 
 #### Solutions
