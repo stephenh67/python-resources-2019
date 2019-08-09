@@ -68,8 +68,8 @@ easy-to-follow, self-paced tutorial gets you started with both Python 2.x and 3.
 * [_Python Crash Course_](https://nostarch.com/pythoncrashcourse2e) A hands-on, project-based introduction to 
 programming.
 
-* [_Automate the Boring Stuff with Python_](https://nostarch.com/automatestuff2) Practical programming for complete 
-beginners.
+* [_Automate the Boring Stuff with Python Online Edition_](https://automatetheboringstuff.com/) Practical programming
+ for complete beginners.
 
 * [_How to Think Like a Computer Scientist: Interactive Edition_](
 https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
