@@ -18,6 +18,8 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 
 * [_w3schools Python Tutorial_](https://www.w3schools.com/python/default.asp) 
 
+* [_Codecademy_](https://www.codecademy.com/) Codecademy has a free 7 day trial, and has several Python courses. 
+
 
 #### Solutions
 
