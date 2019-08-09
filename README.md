@@ -4,8 +4,11 @@ A list of Python resources, books, websites, tutorials, code challenges
 #### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) - Zed Shaw.  A good starting place if you are 
-new to python. Note there's earlier version _Learn Python the Hard Way_ that uses Python 2.
+new to python. Note there's earlier version _Learn Python the Hard Way_ that covers Python 2.
   
+* [_Learning Python_](http://shop.oreilly.com/product/0636920028154.do) Get a comprehensive, in-depth introduction to 
+the core Python language with this hands-on book.Complete with quizzes, exercises, and helpful illustrations, this 
+easy-to-follow, self-paced tutorial gets you started with both Python 2.x and 3.x
 
 #### Practice Problems with Solutions
 
