@@ -26,6 +26,8 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 
 * [_The Python Tutorial_](https://docs.python.org/3.7/tutorial/index.html) 
 
+* [_Google's Python Class_](https://developers.google.com/edu/python/)
+
 
 #### Solutions
 
