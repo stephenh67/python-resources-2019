@@ -74,6 +74,15 @@ completing the problems.
 
 * [_Stepik_](https://stepik.org/) 100s of problems with adaptive difficulty.
  
+* [_Python on Reddit_](https://www.reddit.com/r/learnpython/wiki/index) 
+
+    - /r/python ­— News about the dynamic, interpreted, interactive, object-oriented, extensible programming language Python.
+    - /r/learnprogramming
+    - /r/dailyprogrammer — The focus of this subreddit is to provide bi-daily challenges to keep your mind and fingers busy between projects.
+    - /r/progether — Progether is about bringing programmers together on common projects, whether it is learning or developing or designing or what have you. 
+    - /r/LearnMachineLearning — A subreddit dedicated for learning machine learning.
+    - /r/PythonPuzzles ­— Regular code puzzles in the Python programming languages
+ 
 #### Other Resources
 
 * [_Pixabay_](https://pixabay.com/) Over 1 million+ high quality stock images and videos shared by our talented 
