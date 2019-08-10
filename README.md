@@ -1,11 +1,11 @@
 # Python-Resources-2019
-A curated list of Python resources, books, websites, tutorials, code challenges
+A curated list of Python 3 resources, books, websites, tutorials, code challenges.
 
 #### IDE
 
 * [_PyCharm Community Edition_](https://www.jetbrains.com/pycharm/) A great free IDE, has most of the features you'll 
-want. You can get a free 3 month Educational License (renewable) for the Professional Version from 
-[_Stepik_](https://stepik.org/) that is valid for the entire JetBrains suite.
+want. After solving a few challange problems you can get a free 3 month Educational License (renewable) for the 
+Professional Version from [_Stepik_](https://stepik.org/) that is valid for the entire JetBrains suite.
 
 * [_Anaconda_](https://www.anaconda.com) "The open-source Anaconda Distribution is the easiest way to perform Python/R 
 data science and machine learning on Linux, Windows, and Mac OS X"
