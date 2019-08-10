@@ -98,6 +98,8 @@ includes several external packages.
 
 * [_Practice Python_](http://www.practicepython.org/) Over 30 beginner Python exercises with solutions
 
+* [_100+ Python challenging programming exercises_](https://github.com/zhiwehu/Python-programming-exercises)
+
 
 #### Coding Challenges
 
