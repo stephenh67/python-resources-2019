@@ -4,7 +4,8 @@ A curated list of Python resources, books, websites, tutorials, code challenges
 #### IDE
 
 * [_PyCharm Community Edition_](https://www.jetbrains.com/pycharm/) A great free IDE, has most of the features you'll 
-want.
+want. You can get a free 3 month Educational License (renewable) from [_Stepik_](https://stepik.org/) that is good for 
+all of the JetBrains suite.
 
 * [_Anaconda_](https://www.anaconda.com) "The open-source Anaconda Distribution is the easiest way to perform Python/R 
 data science and machine learning on Linux, Windows, and Mac OS X"
