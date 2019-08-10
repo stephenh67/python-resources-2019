@@ -34,6 +34,12 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 * [_Sololearn Python Class_](https://www.sololearn.com/) Learn on the web and on the go. Available on all major 
 devices and platforms. 
 
+##### Python Cheat Sheets
+
+* [_Comprehensive Python Cheatsheet_](https://github.com/gto76/python-cheatsheet)
+
+* [_Python Cheatsheet_](https://www.pythonsheets.com/)
+
 ##### Pygame
 
 * [_Program Arcade Games With Python And Pygame_](http://programarcadegames.com/)
