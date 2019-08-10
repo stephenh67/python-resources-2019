@@ -94,6 +94,9 @@ includes several external packages.
 
 #### Coding Challenges
 
+* [_Stepik_](https://stepik.org/) 100s of problems with adaptive difficulty. After solving a few problems Stepik 
+provides a free 3 month (renewable) Educational License for the complete JetBrains suite, including PyCharm Pro.
+
 * [_CheckIO_](https://checkio.org/) Coding games for beginners and advanced programmers where you can improve your 
 coding skills by solving engaging challenges and fun task using Python, has PyCharm integration.
 
@@ -106,8 +109,6 @@ in the dojo and reach your highest potential.
 
 * [_Hacker Rank_](https://www.hackerrank.com/) 100s of Python problems for you to solve, solutions available after 
 completing the problems.
-
-* [_Stepik_](https://stepik.org/) 100s of problems with adaptive difficulty.
 
 #### Community
 
