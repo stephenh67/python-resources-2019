@@ -53,7 +53,8 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 
 ### Solutions
 
-* [_Hitchhikers scenario-guide-for-python-applications_](https://docs.python-guide.org/#scenario-guide-for-python-applications)
+* [_Hitchhikers scenario-guide-for-python-applications_](
+https://docs.python-guide.org/#scenario-guide-for-python-applications)
 
 * [_Awesome Python_](https://github.com/vinta/awesome-python) "A curated list of awesome Python frameworks, libraries,
  software and resources"
