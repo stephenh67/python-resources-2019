@@ -2,7 +2,7 @@
 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
-#### IDEs
+### IDEs
 
 * [_PyCharm Community Edition_](https://www.jetbrains.com/pycharm/) A great free IDE, has most of the features you'll 
 want. After solving a few challange problems you can get a free 3 month Educational License (renewable) for the 
@@ -16,7 +16,7 @@ data science and machine learning on Linux, Windows, and Mac OS X"
     - Analyze data with scalability and performance with Dask, NumPy, pandas, and Numba
     - Visualize results with Matplotlib, Bokeh, Datashader, and Holoviews
 
-#### Tutorials
+### Tutorials
 
 * [_w3schools Python Tutorial_](https://www.w3schools.com/python/default.asp) Clear and concise. 
 
@@ -39,24 +39,24 @@ devices and platforms.
 * [_Clean architectures in Python: a step-by-step example_](
 https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
 
-##### Pygame
+#### Pygame
 
 * [_Program Arcade Games With Python And Pygame_](http://programarcadegames.com/)
 
-#### Python Cheat Sheets
+### Python Cheat Sheets
 
 * [_Comprehensive Python Cheatsheet_](https://github.com/gto76/python-cheatsheet)
 
 * [_Python Cheatsheet_](https://www.pythonsheets.com/)
 
-#### Solutions
+### Solutions
 
 * [_Hitchhikers scenario-guide-for-python-applications_](https://docs.python-guide.org/#scenario-guide-for-python-applications)
 
 * [_Awesome Python_](https://github.com/vinta/awesome-python) "A curated list of awesome Python frameworks, libraries,
  software and resources"
 
-#### Sample Code
+### Sample Code
 
 * [_ActiveState Code » Recipes_](http://code.activestate.com/recipes/langs/python/) Popular Python recipes
 
@@ -64,11 +64,11 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 
 * [_CodesCracker Python Programming Examples_](https://codescracker.com/python/program/index.htm)
 
-#### Documentation
+### Documentation
 
 * [_Python 3.7.4 documentation_](https://codescracker.com/python/program/index.htm)
 
-#### Style Guides
+### Style Guides
 
 * [_PEP 8 -- Style Guide for Python Code_](https://www.python.org/dev/peps/pep-0008/)
 
@@ -76,7 +76,7 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 
 * [_The Hitchhiker’s Guide to Python_](https://docs.python-guide.org/)
 
-#### Books
+### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
 new to python. Note there's earlier version _Learn Python the Hard Way_ that covers Python 2.
@@ -94,7 +94,7 @@ programming.
 * [_How to Think Like a Computer Scientist: Interactive Edition_](
 https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
-#### Practice Problems with Solutions
+### Practice Problems with Solutions
 
 * [_w3resource's Python Exercises_](https://www.w3resource.com/python-exercises/), 100s of exercises with solutions, 
 includes several external packages. 
@@ -105,7 +105,7 @@ includes several external packages.
 * [_100+ Python challenging programming exercises_](https://github.com/zhiwehu/Python-programming-exercises)
 
 
-#### Coding Challenges
+### Coding Challenges
 
 * [_Stepik_](https://stepik.org/) 100s of problems with adaptive difficulty. After solving a few problems Stepik 
 provides a free 3 month (renewable) Educational License for the complete JetBrains suite, including PyCharm Pro.
@@ -123,7 +123,7 @@ in the dojo and reach your highest potential.
 * [_Hacker Rank_](https://www.hackerrank.com/) 100s of Python problems for you to solve, solutions available after 
 completing the problems.
 
-#### Community
+### Community
 
 * [_CodeTriage_](https://www.codetriage.com/) Help out your favorite open source projects and become a better 
 developer while doing it. Pick your favorite repos to receive a different open issue in your inbox every day. Fix 
@@ -144,7 +144,7 @@ an answer here.
     - /r/LearnMachineLearning — A subreddit dedicated for learning machine learning.
     - /r/PythonPuzzles ­— Regular code puzzles in the Python programming languages
  
-#### Other Resources
+### Other Resources
 
 * [_Pixabay_](https://pixabay.com/) Over 1 million+ high quality stock images and videos shared by our talented 
 community.
