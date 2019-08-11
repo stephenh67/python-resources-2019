@@ -49,6 +49,8 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 
 * [_Python Cheatsheet_](https://www.pythonsheets.com/)
 
+* [_Learn X in Y minutes_](https://learnxinyminutes.com/docs/python3/) Where X=python3
+
 ### Solutions
 
 * [_Hitchhikers scenario-guide-for-python-applications_](https://docs.python-guide.org/#scenario-guide-for-python-applications)
