@@ -1,7 +1,8 @@
 # Python-Resources-2019
-A curated list of Python 3 resources, books, websites, tutorials, code challenges.
+A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
+additions to the list please open an issue.
 
-#### IDE
+#### IDEs
 
 * [_PyCharm Community Edition_](https://www.jetbrains.com/pycharm/) A great free IDE, has most of the features you'll 
 want. After solving a few challange problems you can get a free 3 month Educational License (renewable) for the 
