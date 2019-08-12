@@ -137,15 +137,20 @@ an answer here.
 
 * [_Python on Reddit_](https://www.reddit.com/r/learnpython/wiki/index) 
 
-    - /r/python ­— News about the dynamic, interpreted, interactive, object-oriented, extensible programming language 
-    Python.
-    - /r/learnprogramming
-    - /r/dailyprogrammer — The focus of this subreddit is to provide bi-daily challenges to keep your mind and fingers 
-    busy between projects.
-    - /r/progether — Progether is about bringing programmers together on common projects, whether it is learning or 
-    developing or designing or what have you. 
-    - /r/LearnMachineLearning — A subreddit dedicated for learning machine learning.
-    - /r/PythonPuzzles ­— Regular code puzzles in the Python programming languages
+    - [_/r/learnpython_](https://www.reddit.com/r/learnpython/) Subreddit for posting questions and asking for 
+    general advice about your python code.
+    - [_/r/python_](https://www.reddit.com/r/Python/) News about the dynamic, interpreted, interactive, 
+    object-oriented, extensible programming language Python.
+    - [_/r/learnprogramming_](https://www.reddit.com/r/learnprogramming/) A subreddit for all questions related to 
+    programming in any language.
+    - [_/r/dailyprogrammer_](https://www.reddit.com/r/dailyprogrammer/) — The focus of this subreddit is to provide 
+    bi-daily challenges to keep your mind and fingers busy between projects.
+    - [_/r/progether_](https://www.reddit.com/r/progether/) — Progether is about bringing programmers together on 
+    common projects, whether it is learning or developing or designing or what have you. 
+    - [_/r/LearnMachineLearning_](https://www.reddit.com/r/LearnMachineLearning/) — A subreddit dedicated for 
+    learning machine learning.
+    - [_/r/PythonPuzzles_](https://www.reddit.com/r/PythonPuzzles/) ­— Regular code puzzles in the Python programming 
+    languages
  
 ### Other Resources
 
