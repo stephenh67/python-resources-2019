@@ -39,7 +39,10 @@ devices and platforms.
 * [_Clean architectures in Python: a step-by-step example_](
 https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
 
-#### Pygame
+### GUI related
+
+* [_PySimpleGUI_](https://pysimplegui.readthedocs.io/en/latest/) Python GUI For Humans - Transforms tkinter, Qt, Remi, 
+WxPython into a people-friendly Pythonic interfaces
 
 * [_Program Arcade Games With Python And Pygame_](http://programarcadegames.com/)
 
