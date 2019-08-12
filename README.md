@@ -5,7 +5,7 @@ additions to the list please open an issue.
 ### IDEs
 
 * [_PyCharm Community Edition_](https://www.jetbrains.com/pycharm/) A great free IDE, has most of the features you'll 
-want. After solving a few challange problems you can get a free 3 month Educational License (renewable) for the 
+want. After solving a few challenge problems you can get a free 3 month Educational License (renewable) for the 
 Professional Version from [_Stepik_](https://stepik.org/) that is valid for the entire JetBrains suite.
 
 * [_Anaconda_](https://www.anaconda.com) "The open-source Anaconda Distribution is the easiest way to perform Python/R 
@@ -28,8 +28,10 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 
 * [_The Python Tutorial_](https://docs.python.org/3.7/tutorial/index.html) The official tutorial.
 
-* [_Google's Python Class_](https://developers.google.com/edu/python/) Videos and exercises from a two day Python
- class.
+* [_Google's Python Class_](https://developers.google.com/edu/python/) Videos and exercises from a two day Python 
+class.
+
+* [_pythonprogramming.net_](https://pythonprogramming.net/) A number of python tutorials.
 
 * [_Real Python Tutorials_](https://realpython.com/) Short tutorials on a wide range of subjects.
 
