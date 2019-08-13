@@ -141,6 +141,11 @@ https://docs.python-guide.org/#scenario-guide-for-python-applications)
 
 * [_The Hitchhiker’s Guide to Python_](https://docs.python-guide.org/)
 
+### Testing
+
+* [_Getting Started With Testing in Python_](https://realpython.com/python-testing/) Getting Started With Testing in 
+Python
+
 ### Tutorials
 
 * [_w3schools Python Tutorial_](https://www.w3schools.com/python/default.asp) Clear and concise. 
