@@ -2,96 +2,6 @@
 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
-### IDEs
-
-* [_PyCharm Community Edition_](https://www.jetbrains.com/pycharm/) A great free IDE, has most of the features you'll 
-want. After solving a few challenge problems you can get a free 3 month Educational License (renewable) for the 
-Professional Version from [_Stepik_](https://stepik.org/) that is valid for the entire JetBrains suite.
-    - [_Getting Started with PyCharm video tutorials_](
-    https://blog.jetbrains.com/pycharm/2016/01/introducing-getting-started-with-pycharm-video-tutorials/)
-    
-* [_Anaconda_](https://www.anaconda.com) "The open-source Anaconda Distribution is the easiest way to perform Python/R 
-data science and machine learning on Linux, Windows, and Mac OS X"
-    - Quickly download 1,500+ Python/R data science packages
-    - Manage libraries, dependencies, and environments with Conda
-    - Develop and train machine learning and deep learning models with scikit-learn, TensorFlow, and Theano
-    - Analyze data with scalability and performance with Dask, NumPy, pandas, and Numba
-    - Visualize results with Matplotlib, Bokeh, Datashader, and Holoviews
-
-### Tutorials
-
-* [_w3schools Python Tutorial_](https://www.w3schools.com/python/default.asp) Clear and concise. 
-
-* [_Programiz_](https://www.programiz.com/python-programming) Learn Python Programming: The Definitive Guide
-
-* [_Python for Everybody_](https://www.py4e.com/) A full Python course.
-
-* [_Codecademy_](https://www.codecademy.com/) Codecademy has a free 7 day trial, and has several Python courses.
-
-* [_The Python Tutorial_](https://docs.python.org/3.7/tutorial/index.html) The official tutorial.
-
-* [_Google's Python Class_](https://developers.google.com/edu/python/) Videos and exercises from a two day Python 
-class.
-
-* [_pythonprogramming.net_](https://pythonprogramming.net/) A number of python tutorials.
-
-* [_Real Python Tutorials_](https://realpython.com/) Short tutorials on a wide range of subjects.
-
-* [_Sololearn Python Class_](https://www.sololearn.com/) Learn on the web and on the go. Available on all major 
-devices and platforms. 
-
-* [_Clean architectures in Python: a step-by-step example_](
-https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
-
-### GUI related
-
-* [_PySimpleGUI_](https://pysimplegui.readthedocs.io/en/latest/) Python GUI For Humans - Transforms tkinter, Qt, Remi, 
-WxPython into a people-friendly Pythonic interfaces
-
-* [_Tkinter Tutorial_](https://likegeeks.com/python-gui-examples-tkinter-tutorial/) Learn how to develop graphical 
-user interfaces by writing some Python GUI examples using Tkinter package.
-
-* [_Introduction to PyQt4_](http://zetcode.com/gui/pyqt4/introduction/) An introductory PyQt4 tutorial
-
-* [_Program Arcade Games With Python And Pygame_](http://programarcadegames.com/)
-
-### Python Cheat Sheets
-
-* [_Comprehensive Python Cheatsheet_](https://github.com/gto76/python-cheatsheet)
-
-* [_Python Cheatsheet_](https://www.pythonsheets.com/)
-
-* [_Learn X in Y minutes_](https://learnxinyminutes.com/docs/python3/) Where X=python3
-
-### Solutions
-
-* [_Hitchhikers scenario-guide-for-python-applications_](
-https://docs.python-guide.org/#scenario-guide-for-python-applications)
-
-* [_Awesome Python_](https://github.com/vinta/awesome-python) "A curated list of awesome Python frameworks, libraries,
- software and resources"
-
-### Sample Code
-
-* [_ActiveState Code » Recipes_](http://code.activestate.com/recipes/langs/python/) Popular Python recipes
-
-* [_pythonforbeginners Code-snippets_](https://www.pythonforbeginners.com/code-snippets-source-code/)
-
-* [_CodesCracker Python Programming Examples_](https://codescracker.com/python/program/index.htm)
-
-### Documentation
-
-* [_Python 3.7.4 documentation_](https://codescracker.com/python/program/index.htm)
-
-* [_Quick sphinx primer_](http://scriptsonscripts.blogspot.com/2012/09/quick-sphinx-documentation-for-python.html)
-
-### Style Guides
-
-* [_PEP 8 -- Style Guide for Python Code_](https://www.python.org/dev/peps/pep-0008/)
-
-* [_Google Python Style Guide_](https://google.github.io/styleguide/pyguide.html)
-
-* [_The Hitchhiker’s Guide to Python_](https://docs.python-guide.org/)
 
 ### Books
 
@@ -110,17 +20,6 @@ programming.
 
 * [_How to Think Like a Computer Scientist: Interactive Edition_](
 https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
-
-### Practice Problems with Solutions
-
-* [_w3resource's Python Exercises_](https://www.w3resource.com/python-exercises/), 100s of exercises with solutions, 
-includes several external packages. 
-
-
-* [_Practice Python_](http://www.practicepython.org/) Over 30 beginner Python exercises with solutions
-
-* [_100+ Python challenging programming exercises_](https://github.com/zhiwehu/Python-programming-exercises)
-
 
 ### Coding Challenges
 
@@ -165,6 +64,108 @@ an answer here.
     learning machine learning.
     - [_/r/PythonPuzzles_](https://www.reddit.com/r/PythonPuzzles/) ­— Regular code puzzles in the Python programming 
     languages
+
+### Documentation
+
+* [_Python 3.7.4 documentation_](https://codescracker.com/python/program/index.htm)
+
+* [_Quick sphinx primer_](http://scriptsonscripts.blogspot.com/2012/09/quick-sphinx-documentation-for-python.html)
+
+### GUI related
+
+* [_PySimpleGUI_](https://pysimplegui.readthedocs.io/en/latest/) Python GUI For Humans - Transforms tkinter, Qt, Remi, 
+WxPython into a people-friendly Pythonic interfaces
+
+* [_Tkinter Tutorial_](https://likegeeks.com/python-gui-examples-tkinter-tutorial/) Learn how to develop graphical 
+user interfaces by writing some Python GUI examples using Tkinter package.
+
+* [_Introduction to PyQt4_](http://zetcode.com/gui/pyqt4/introduction/) An introductory PyQt4 tutorial
+
+* [_Program Arcade Games With Python And Pygame_](http://programarcadegames.com/)
+
+### IDEs
+
+* [_PyCharm Community Edition_](https://www.jetbrains.com/pycharm/) A great free IDE, has most of the features you'll 
+want. After solving a few challenge problems you can get a free 3 month Educational License (renewable) for the 
+Professional Version from [_Stepik_](https://stepik.org/) that is valid for the entire JetBrains suite.
+    - [_Getting Started with PyCharm video tutorials_](
+    https://blog.jetbrains.com/pycharm/2016/01/introducing-getting-started-with-pycharm-video-tutorials/)
+    
+* [_Anaconda_](https://www.anaconda.com) "The open-source Anaconda Distribution is the easiest way to perform Python/R 
+data science and machine learning on Linux, Windows, and Mac OS X"
+    - Quickly download 1,500+ Python/R data science packages
+    - Manage libraries, dependencies, and environments with Conda
+    - Develop and train machine learning and deep learning models with scikit-learn, TensorFlow, and Theano
+    - Analyze data with scalability and performance with Dask, NumPy, pandas, and Numba
+    - Visualize results with Matplotlib, Bokeh, Datashader, and Holoviews
+
+### Practice Problems with Solutions
+
+* [_w3resource's Python Exercises_](https://www.w3resource.com/python-exercises/), 100s of exercises with solutions, 
+includes several external packages. 
+
+
+* [_Practice Python_](http://www.practicepython.org/) Over 30 beginner Python exercises with solutions
+
+* [_100+ Python challenging programming exercises_](https://github.com/zhiwehu/Python-programming-exercises)
+
+### Python Cheat Sheets
+
+* [_Comprehensive Python Cheatsheet_](https://github.com/gto76/python-cheatsheet)
+
+* [_Python Cheatsheet_](https://www.pythonsheets.com/)
+
+* [_Learn X in Y minutes_](https://learnxinyminutes.com/docs/python3/) Where X=python3
+
+### Sample Code
+
+* [_ActiveState Code » Recipes_](http://code.activestate.com/recipes/langs/python/) Popular Python recipes
+
+* [_pythonforbeginners Code-snippets_](https://www.pythonforbeginners.com/code-snippets-source-code/)
+
+* [_CodesCracker Python Programming Examples_](https://codescracker.com/python/program/index.htm)
+
+### Solutions
+
+* [_Hitchhikers scenario-guide-for-python-applications_](
+https://docs.python-guide.org/#scenario-guide-for-python-applications)
+
+* [_Awesome Python_](https://github.com/vinta/awesome-python) "A curated list of awesome Python frameworks, libraries,
+ software and resources"
+ 
+ ### Style Guides
+
+* [_PEP 8 -- Style Guide for Python Code_](https://www.python.org/dev/peps/pep-0008/)
+
+* [_Google Python Style Guide_](https://google.github.io/styleguide/pyguide.html)
+
+* [_The Hitchhiker’s Guide to Python_](https://docs.python-guide.org/)
+
+### Tutorials
+
+* [_w3schools Python Tutorial_](https://www.w3schools.com/python/default.asp) Clear and concise. 
+
+* [_Programiz_](https://www.programiz.com/python-programming) Learn Python Programming: The Definitive Guide
+
+* [_Python for Everybody_](https://www.py4e.com/) A full Python course.
+
+* [_Codecademy_](https://www.codecademy.com/) Codecademy has a free 7 day trial, and has several Python courses.
+
+* [_The Python Tutorial_](https://docs.python.org/3.7/tutorial/index.html) The official tutorial.
+
+* [_Google's Python Class_](https://developers.google.com/edu/python/) Videos and exercises from a two day Python 
+class.
+
+* [_pythonprogramming.net_](https://pythonprogramming.net/) A number of python tutorials.
+
+* [_Real Python Tutorials_](https://realpython.com/) Short tutorials on a wide range of subjects.
+
+* [_Sololearn Python Class_](https://www.sololearn.com/) Learn on the web and on the go. Available on all major 
+devices and platforms. 
+
+* [_Clean architectures in Python: a step-by-step example_](
+https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
+
  
 ### Other Resources
 
