@@ -48,6 +48,9 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 * [_PySimpleGUI_](https://pysimplegui.readthedocs.io/en/latest/) Python GUI For Humans - Transforms tkinter, Qt, Remi, 
 WxPython into a people-friendly Pythonic interfaces
 
+* [_Tkinter Tutorial_](https://likegeeks.com/python-gui-examples-tkinter-tutorial/) Learn how to develop graphical 
+user interfaces by writing some Python GUI examples using Tkinter package.
+
 * [_Introduction to PyQt4_](http://zetcode.com/gui/pyqt4/introduction/) An introductory PyQt4 tutorial
 
 * [_Program Arcade Games With Python And Pygame_](http://programarcadegames.com/)
