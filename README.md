@@ -76,6 +76,8 @@ https://docs.python-guide.org/#scenario-guide-for-python-applications)
 
 * [_Python 3.7.4 documentation_](https://codescracker.com/python/program/index.htm)
 
+* [_Quick sphinx primer_](http://scriptsonscripts.blogspot.com/2012/09/quick-sphinx-documentation-for-python.html)
+
 ### Style Guides
 
 * [_PEP 8 -- Style Guide for Python Code_](https://www.python.org/dev/peps/pep-0008/)
