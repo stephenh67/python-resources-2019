@@ -143,8 +143,7 @@ https://docs.python-guide.org/#scenario-guide-for-python-applications)
 
 ### Testing
 
-* [_Getting Started With Testing in Python_](https://realpython.com/python-testing/) Getting Started With Testing in 
-Python
+* [_Getting Started With Testing in Python_](https://realpython.com/python-testing/)
 
 ### Tutorials
 
