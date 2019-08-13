@@ -7,7 +7,9 @@ additions to the list please open an issue.
 * [_PyCharm Community Edition_](https://www.jetbrains.com/pycharm/) A great free IDE, has most of the features you'll 
 want. After solving a few challenge problems you can get a free 3 month Educational License (renewable) for the 
 Professional Version from [_Stepik_](https://stepik.org/) that is valid for the entire JetBrains suite.
-
+    - [_Getting Started with PyCharm video tutorials_](
+    https://blog.jetbrains.com/pycharm/2016/01/introducing-getting-started-with-pycharm-video-tutorials/)
+    
 * [_Anaconda_](https://www.anaconda.com) "The open-source Anaconda Distribution is the easiest way to perform Python/R 
 data science and machine learning on Linux, Windows, and Mac OS X"
     - Quickly download 1,500+ Python/R data science packages
