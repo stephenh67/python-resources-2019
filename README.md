@@ -143,6 +143,9 @@ https://docs.python-guide.org/#scenario-guide-for-python-applications)
 
 ### Testing
 
+* [_Improve Your Python: Understanding Unit Testing_](
+https://www.jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/)
+
 * [_Getting Started With Testing in Python_](https://realpython.com/python-testing/)
 
 ### Tutorials
