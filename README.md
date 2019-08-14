@@ -168,7 +168,10 @@ class.
 * [_Real Python Tutorials_](https://realpython.com/) Short tutorials on a wide range of subjects.
 
 * [_Sololearn Python Class_](https://www.sololearn.com/) Learn on the web and on the go. Available on all major 
-devices and platforms. 
+devices and platforms.
+
+* [_pythonprogramming.net_](https://pythonprogramming.net/) A wide variety of Python tutorials
+ 
 
 * [_Clean architectures in Python: a step-by-step example_](
 https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
