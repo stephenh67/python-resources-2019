@@ -71,6 +71,10 @@ an answer here.
 
 * [_Quick sphinx primer_](http://scriptsonscripts.blogspot.com/2012/09/quick-sphinx-documentation-for-python.html)
 
+### Git
+
+* [_GitHub Help_](https://help.github.com/en#dotcom) Help with all things Git.
+
 ### GUI related
 
 * [_PySimpleGUI_](https://pysimplegui.readthedocs.io/en/latest/) Python GUI For Humans - Transforms tkinter, Qt, Remi, 
