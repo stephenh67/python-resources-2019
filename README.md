@@ -103,6 +103,11 @@ data science and machine learning on Linux, Windows, and Mac OS X"
     - Analyze data with scalability and performance with Dask, NumPy, pandas, and Numba
     - Visualize results with Matplotlib, Bokeh, Datashader, and Holoviews
 
+### Packages
+
+* [_Python Web Scraping Using BeautifulSoup_](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
+
+
 ### Practice Problems with Solutions
 
 * [_w3resource's Python Exercises_](https://www.w3resource.com/python-exercises/), 100s of exercises with solutions, 
