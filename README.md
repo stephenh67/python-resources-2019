@@ -33,8 +33,9 @@ coding skills by solving engaging challenges and fun task using Python, has PyCh
 * [_Codewars_](https://www.codewars.com/) is where developers achieve code mastery through challenge. Train on kata 
 in the dojo and reach your highest potential.
 
-* [_The Python Challenge_](http://www.pythonchallenge.com/) 33 python puzzles to challenge your skills.
-
+* [_The Python Challenge_](http://www.pythonchallenge.com/) 33 python puzzles to challenge your skills. [kuzmich](
+https://github.com/kuzmich) has a nicely done [python-challenge-solution](
+https://github.com/kuzmich/python-challenge-solution/blob/master/solution.ipynb)
 
 * [_Hacker Rank_](https://www.hackerrank.com/) 100s of Python problems for you to solve, solutions available after 
 completing the problems.
