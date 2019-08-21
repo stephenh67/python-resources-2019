@@ -129,6 +129,9 @@ includes several external packages.
 
 ### Sample Code
 
+* [_PythonStdioGames_](https://github.com/asweigart/PythonStdioGames) A collection of text-based games written in 
+Python 3 that only use "standard i/o". It's aimed at being easy to copy and understand by beginners. 
+
 * [_ActiveState Code » Recipes_](http://code.activestate.com/recipes/langs/python/) Popular Python recipes
 
 * [_pythonforbeginners Code-snippets_](https://www.pythonforbeginners.com/code-snippets-source-code/)
