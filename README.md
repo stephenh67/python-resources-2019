@@ -130,7 +130,8 @@ includes several external packages.
 ### Sample Code
 
 * [_PythonStdioGames_](https://github.com/asweigart/PythonStdioGames) A collection of text-based games written in 
-Python 3 that only use "standard i/o". It's aimed at being easy to copy and understand by beginners. 
+Python 3 that only use "standard i/o". By Al Sweigart of inventwithpython.com, it's aimed at being easy to copy and 
+understand by beginners. 
 
 * [_ActiveState Code » Recipes_](http://code.activestate.com/recipes/langs/python/) Popular Python recipes
 
