@@ -76,6 +76,8 @@ an answer here.
 
 * [_GitHub Help_](https://help.github.com/en#dotcom) Help with all things Git.
 
+* [_Learn Git Branching_](https://learngitbranching.js.org/)
+
 ### GUI related
 
 * [_PySimpleGUI_](https://pysimplegui.readthedocs.io/en/latest/) Python GUI For Humans - Transforms tkinter, Qt, Remi, 
