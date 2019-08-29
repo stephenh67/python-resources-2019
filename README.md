@@ -159,6 +159,8 @@ https://docs.python-guide.org/#scenario-guide-for-python-applications)
 
 ### Testing
 
+* [_pysnooper_](https://pypi.org/project/PySnooper/) PySnooper - Never use print for debugging again
+
 * [_Improve Your Python: Understanding Unit Testing_](
 https://www.jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/)
 
