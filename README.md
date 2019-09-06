@@ -110,6 +110,10 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 
 * [_Python Web Scraping Using BeautifulSoup_](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
 
+* [_PySimpleGUI_](https://pysimplegui.readthedocs.io/en/latest/) Python GUI For Humans - Transforms tkinter, Qt, Remi,
+ WxPython into portable people-friendly Pythonic interfaces
+
+* [_Pysnooper_](https://github.com/cool-RR/PySnooper) Never use print for debugging again 
 
 ### Practice Problems with Solutions
 
