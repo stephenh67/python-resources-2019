@@ -139,6 +139,9 @@ includes several external packages.
 Python 3 that only use "standard i/o". By Al Sweigart of inventwithpython.com, it's aimed at being easy to copy and 
 understand by beginners. 
 
+* [_My Python Examples_](https://github.com/geekcomputers/Python) These scripts contain important functions which help 
+reduce human workload.
+
 * [_ActiveState Code » Recipes_](http://code.activestate.com/recipes/langs/python/) Popular Python recipes
 
 * [_pythonforbeginners Code-snippets_](https://www.pythonforbeginners.com/code-snippets-source-code/)
