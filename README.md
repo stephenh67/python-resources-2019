@@ -108,6 +108,8 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 
 ### Packages
 
+* [_pipreqs_](https://github.com/bndr/pipreqs) Generate pip requirements.txt file based on imports of any project 
+
 * [_Python Web Scraping Using BeautifulSoup_](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
 
 * [_PySimpleGUI_](https://pysimplegui.readthedocs.io/en/latest/) Python GUI For Humans - Transforms tkinter, Qt, Remi,
