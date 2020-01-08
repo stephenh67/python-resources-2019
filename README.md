@@ -80,6 +80,9 @@ an answer here.
 
 ### GUI related
 
+* [_Learn PyQt_](https://www.learnpyqt.com/) Create GUI applications with Python 3 and Qt5, using PyQt5/PySide libraries. Basic and advanced topics.
+
+
 * [_PySimpleGUI_](https://pysimplegui.readthedocs.io/en/latest/) Python GUI For Humans - Transforms tkinter, Qt, Remi, 
 WxPython into a people-friendly Pythonic interfaces
 
