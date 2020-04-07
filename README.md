@@ -197,6 +197,8 @@ class.
 * [_Sololearn Python Class_](https://www.sololearn.com/) Learn on the web and on the go. Available on all major 
 devices and platforms.
 
+* [_Udemy_](https://www.udemy.com/) Offers a free Automate the Boring Stuff with Python Programming course.
+
 * [_pythonprogramming.net_](https://pythonprogramming.net/) Python Programming tutorials from beginner to advanced on 
 a massive variety of topics.
 
