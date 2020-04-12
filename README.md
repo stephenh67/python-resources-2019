@@ -163,7 +163,8 @@ https://docs.python-guide.org/#scenario-guide-for-python-applications)
  
  ### Style Guides
 
-* [_PEP 8 -- Style Guide for Python Code_](https://www.python.org/dev/peps/pep-0008/)
+* [_PEP 8 -- Style Guide for Python Code_](https://pep8.org/) This document gives coding conventions for the Python 
+code comprising the standard library in the main Python distribution.
 
 * [_Google Python Style Guide_](https://google.github.io/styleguide/pyguide.html)
 
