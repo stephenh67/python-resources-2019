@@ -111,14 +111,18 @@ data science and machine learning on Linux, Windows, and Mac OS X"
 
 ### Packages
 
+* [_BeautifulSoup_](https://www.dataquest.io/blog/web-scraping-tutorial-python/) Python Web 
+Scraping Using BeautifulSoup
+
 * [_pipreqs_](https://github.com/bndr/pipreqs) Generate pip requirements.txt file based on imports of any project 
 
-* [_Python Web Scraping Using BeautifulSoup_](https://www.dataquest.io/blog/web-scraping-tutorial-python/)
+* [_pyGame_](https://pythonprogramming.net/pygame-python-3-part-1-intro/) Introduction to PyGame.
 
 * [_PySimpleGUI_](https://pysimplegui.readthedocs.io/en/latest/) Python GUI For Humans - Transforms tkinter, Qt, Remi,
  WxPython into portable people-friendly Pythonic interfaces
 
-* [_Pysnooper_](https://github.com/cool-RR/PySnooper) Never use print for debugging again 
+* [_pysnooper_](https://github.com/cool-RR/PySnooper) Never use print for debugging again 
+
 
 ### Practice Problems with Solutions
 
