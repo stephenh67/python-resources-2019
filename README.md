@@ -109,6 +109,11 @@ data science and machine learning on Linux, Windows, and Mac OS X"
     - Analyze data with scalability and performance with Dask, NumPy, pandas, and Numba
     - Visualize results with Matplotlib, Bokeh, Datashader, and Holoviews
 
+* [_Spyder_](https://www.spyder-ide.org/) Spyder is a powerful scientific environment written in Python, for Python, 
+and designed by and for scientists, engineers and data analysts.
+
+* [_Jupyter_](https://www.jupyter.org) JupyterLab is a web-based interactive development environment for Jupyter notebooks, code, 
+and data.
 ### Packages
 
 * [_BeautifulSoup_](https://www.dataquest.io/blog/web-scraping-tutorial-python/) Python Web 
