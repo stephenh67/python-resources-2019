@@ -116,8 +116,10 @@ and designed by and for scientists, engineers and data analysts.
 and data.
 ### Packages
 
-* [_BeautifulSoup_](https://www.dataquest.io/blog/web-scraping-tutorial-python/) Python Web 
-Scraping Using BeautifulSoup
+* [_BeautifulSoup_](https://www.dataquest.io/blog/web-scraping-tutorial-python/) Python Web Scraping Using BeautifulSoup
+
+* [_django_](https://www.djangoproject.com/) Django is a high-level Python Web framework that encourages rapid 
+development and clean, pragmatic design.
 
 * [_pipreqs_](https://github.com/bndr/pipreqs) Generate pip requirements.txt file based on imports of any project 
 
@@ -189,6 +191,8 @@ https://www.jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit
 * [_Getting Started With Testing in Python_](https://realpython.com/python-testing/)
 
 ### Tutorials
+
+* [_Django_](https://docs.djangoproject.com/en/3.0/) Includes basic and advanced tutorials.
 
 * [_w3schools Python Tutorial_](https://www.w3schools.com/python/default.asp) Clear and concise. 
 
