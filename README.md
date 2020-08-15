@@ -21,6 +21,10 @@ programming.
 * [_How to Think Like a Computer Scientist: Interactive Edition_](
 https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
+### Classes
+
+* [_JetBrains Academy_](https://www.jetbrains.com/academy/) Has a 2 month free trial! If you are looking for a complete course start here o the Python track. "It's a one-stop shop for reading about concepts, practicing them and then immediately applying them in projects. An all-in-one learning tool."
+
 ### Coding Challenges
 
 * [_Stepik_](https://stepik.org/) 100s of problems with adaptive difficulty. After solving a few problems Stepik 
