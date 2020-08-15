@@ -23,7 +23,9 @@ https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
 ### Classes
 
-* [_JetBrains Academy_](https://www.jetbrains.com/academy/) Has a 2 month free trial! If you are looking for a complete course start here o the Python track. "It's a one-stop shop for reading about concepts, practicing them and then immediately applying them in projects. An all-in-one learning tool."
+* [_JetBrains Academy_](https://www.jetbrains.com/academy/) Has a 2 month free trial! If you are looking for a complete 
+course start here o the Python track. "It's a one-stop shop for reading about concepts, practicing them and then 
+immediately applying them in projects. An all-in-one learning tool."
 
 ### Coding Challenges
 
@@ -229,6 +231,8 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 ### Youtube
 
 * [_Corey Schafer_](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) Among the best Python Tutorial videos.
+
+* [_10 Python Tips and Tricks For Writing Better Code_](https://www.youtube.com/watch?v=C-gEQdGVXbk&feature=youtu.be) 
 
  
 ### Other Resources
