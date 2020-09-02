@@ -82,6 +82,8 @@ an answer here.
 
 * [_GitHub Help_](https://help.github.com/en#dotcom) Help with all things Git.
 
+* [_Github Profile Readme Templates_](https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates) A curated list of awesome Github Profile Readme Templates.
+
 * [_Learn Git Branching_](https://learngitbranching.js.org/)
 
 ### GUI related
@@ -98,6 +100,13 @@ user interfaces by writing some Python GUI examples using Tkinter package.
 * [_Introduction to PyQt4_](http://zetcode.com/gui/pyqt4/introduction/) An introductory PyQt4 tutorial
 
 * [_Program Arcade Games With Python And Pygame_](http://programarcadegames.com/)
+
+### HTML
+
+* [_CodePen_](https://codepen.io/pen/) An online code editor, learning environment, and community for front-end web 
+development using HTML, CSS and JavaScript code snippets.
+
+* [_HTML Reference_](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ### IDEs
 
@@ -178,7 +187,15 @@ https://docs.python-guide.org/#scenario-guide-for-python-applications)
 * [_Awesome Python_](https://github.com/vinta/awesome-python) "A curated list of awesome Python frameworks, libraries,
  software and resources"
  
- ### Style Guides
+### Stydy Guides
+
+* [_A syllabus for learning Python and Django_](
+https://www.notion.so/4f0d76b4b6b54c88a4c99d665018bb66?v=a4f27ffcbe0a4776b796eed1eb1bb366) 
+
+* [_Ultimate Python study guide_](https://github.com/huangsam/ultimate-python) Ultimate Python study guide for 
+newcomers and professionals alike. 
+
+### Style Guides
 
 * [_PEP 8 -- Style Guide for Python Code_](https://pep8.org/) This document gives coding conventions for the Python 
 code comprising the standard library in the main Python distribution.
