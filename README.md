@@ -2,8 +2,6 @@
 Updated 9/6/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
-[![Visits Badge](https://badges.pufler.dev/visits/stephenh67/python-resources-2019/git-badges)](https://badges.pufler.dev)
-
 ### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
