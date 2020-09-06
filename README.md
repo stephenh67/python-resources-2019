@@ -89,18 +89,22 @@ an answer here.
 
 ### GUI related
 
-* [_Learn PyQt_](https://www.learnpyqt.com/) Create GUI applications with Python 3 and Qt5, using PyQt5/PySide libraries. Basic and advanced topics.
+* [_Dear PyGui_](https://pypi.org/project/dearpygui/) Dear PyGui is a simple to use (but powerful) Python GUI framework. 
+DearPyGui provides a wrapping of DearImGui that provides a hybrid of a traditional retained mode GUI and Dear ImGui's 
+immediate mode paradigm.
 
+* [_Introduction to PyQt4_](http://zetcode.com/gui/pyqt4/introduction/) An introductory PyQt4 tutorial
+
+* [_Learn PyQt_](https://www.learnpyqt.com/) Create GUI applications with Python 3 and Qt5, using PyQt5/PySide 
+libraries. Basic and advanced topics.
+
+* [_Program Arcade Games With Python And Pygame_](http://programarcadegames.com/)
 
 * [_PySimpleGUI_](https://pysimplegui.readthedocs.io/en/latest/) Python GUI For Humans - Transforms tkinter, Qt, Remi, 
 WxPython into a people-friendly Pythonic interfaces
 
 * [_Tkinter Tutorial_](https://likegeeks.com/python-gui-examples-tkinter-tutorial/) Learn how to develop graphical 
 user interfaces by writing some Python GUI examples using Tkinter package.
-
-* [_Introduction to PyQt4_](http://zetcode.com/gui/pyqt4/introduction/) An introductory PyQt4 tutorial
-
-* [_Program Arcade Games With Python And Pygame_](http://programarcadegames.com/)
 
 ### HTML
 
@@ -146,6 +150,9 @@ development and clean, pragmatic design.
 
 * [_pysnooper_](https://github.com/cool-RR/PySnooper) Never use print for debugging again 
 
+* [_Useful Python modules_](
+https://www.reddit.com/r/Python/comments/ilrse8/a_collections_of_useful_python_modules_in_a/) A collections of useful 
+Python modules, in a little to no order whatsoever…
 
 ### Practice Problems with Solutions
 
@@ -164,6 +171,13 @@ includes several external packages.
 * [_Python Cheatsheet_](https://www.pythonsheets.com/)
 
 * [_Learn X in Y minutes_](https://learnxinyminutes.com/docs/python3/) Where X=python3
+
+### Regex
+
+* [_Awesome Regex_](https://github.com/aloisdg/awesome-regex) A curated collection of awesome Regex libraries, tools, 
+frameworks and software.
+
+
 
 ### Sample Code
 
