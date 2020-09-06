@@ -177,7 +177,7 @@ includes several external packages.
 * [_Awesome Regex_](https://github.com/aloisdg/awesome-regex) A curated collection of awesome Regex libraries, tools, 
 frameworks and software.
 
-
+* [_Regex Pal_](https://www.regexpal.com/) A regular expression tester. 
 
 ### Sample Code
 
