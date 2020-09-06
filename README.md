@@ -75,7 +75,7 @@ an answer here.
 
 ### Documentation
 
-* [_Python 3.7.4 documentation_](https://codescracker.com/python/program/index.htm)
+* [_Python 3.8.5 documentation_](https://docs.python.org/3/)
 
 * [_Quick sphinx primer_](http://scriptsonscripts.blogspot.com/2012/09/quick-sphinx-documentation-for-python.html)
 
