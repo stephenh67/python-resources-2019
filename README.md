@@ -20,7 +20,7 @@ programming.
 * [_How to Think Like a Computer Scientist: Interactive Edition_](
 https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
-* [_Python Cookbook: Recipes for Mastering Python 3_](https://www.amazon.in/Python-Cookbook-Recipes-Mastering-ebook/dp/B00DQV4GGY) - If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket.
+* [_Python Cookbook: Recipes for Mastering Python 3_](https://www.amazon.ca/Python-Cookbook-Recipes-Mastering-ebook/dp/B00DQV4GGY) - If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket.
 
 ### Classes
 
