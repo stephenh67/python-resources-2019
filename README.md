@@ -258,6 +258,11 @@ a massive variety of topics.
 * [_Clean architectures in Python: a step-by-step example_](
 https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
 
+* [_Flask Tutorial](
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+
+
 ### Youtube
 
 * [_Corey Schafer_](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) Among the best Python Tutorial videos.
