@@ -267,6 +267,33 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 
 * [_10 Python Tips and Tricks For Writing Better Code_](https://www.youtube.com/watch?v=C-gEQdGVXbk&feature=youtu.be) 
 
+* [_How to convert Python File to EXE_](https://www.youtube.com/watch?v=RBVwvrnvePA)
+
+* [_How to convert Text to Speech using Python_](https://www.youtube.com/watch?v=hd-t4RScpUk)
+
+* [_How to Encrypt Data using Python_](https://www.youtube.com/watch?v=UILpYZDQk2c)
+
+* [_How to use Github API using Python_](https://www.youtube.com/watch?v=EA-4KWam_DU)
+
+* [_How to Scrape Wikipedia using Python_](https://www.youtube.com/watch?v=DVQlxBxp2zc)
+
+* [_How to convert Speech to Text using Python_](https://www.youtube.com/watch?v=p64--E_K--g)
+
+* [_How to Extract Text from Image using Python_](https://www.youtube.com/watch?v=ra6iSO2rQ68)
+
+* [_How to draw Geometry Shapes using Python_](https://www.youtube.com/watch?v=jDDNpDZnFAw)
+
+* [_How to Extract Text from PDF using Python_](https://www.youtube.com/watch?v=AkFApJW9Uu0)
+
+* [_How to Generate QR Code using Python_](https://www.youtube.com/watch?v=W2BJxPGESa8)
+
+* [_How to get Live COVID-19 Updates using Python_](https://www.youtube.com/watch?v=ySacL-nipSs)
+
+* [_Face Detection using Python & OpenCV_](https://www.youtube.com/watch?v=woris1m7fJs)
+
+* [_How to Web Scrape Amazon Data using Python and BeautifulSoup_](https://www.youtube.com/watch?v=i6hxBOlLUNA)
+
+* [_Python Recipes_](https://www.youtube.com/playlist?list=PLS3OGngXDPsRct5f8NKMZney0uMse9R1f) - Unique Python Tutorial with unknown programs
  
 ### Other Resources
 
