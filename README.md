@@ -260,6 +260,8 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 
 * [_Flask Tutorial_](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
+* [_Flask Tutorial HackersAndSlackers_](https://hackersandslackers.com/series/build-flask-apps)
+
 
 ### Youtube
 
