@@ -258,9 +258,11 @@ a massive variety of topics.
 * [_Clean architectures in Python: a step-by-step example_](
 https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
 
-* [_Flask Tutorial_](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+* [_The Flask Mega-Tutorial_](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
-* [_Flask Tutorial HackersAndSlackers_](https://hackersandslackers.com/series/build-flask-apps)
+* [_Flask Tutorial HackersAndSlackers_](https://hackersandslackers.com/series/build-flask-apps) Create web applications
+ and APIs with Python’s most popular framework. We cover everything from routing, database integrations, user accounts, 
+ and more.
 
 
 ### Youtube
