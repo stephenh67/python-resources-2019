@@ -271,6 +271,8 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 
 * [_10 Python Tips and Tricks For Writing Better Code_](https://www.youtube.com/watch?v=C-gEQdGVXbk&feature=youtu.be) 
 
+* [_Python Programming for Network Engineers_](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn) A Youtube course on Python programming/automation for network engineers.
+
  
 ### Other Resources
 
