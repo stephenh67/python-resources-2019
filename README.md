@@ -258,13 +258,23 @@ a massive variety of topics.
 * [_Clean architectures in Python: a step-by-step example_](
 https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
 
-* [_Python Tutorial](https://www.guru99.com/python-tutorials.html) 
+* [_The Flask Mega-Tutorial_](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+* [_Flask Tutorial HackersAndSlackers_](https://hackersandslackers.com/series/build-flask-apps) Create web applications
+ and APIs with Python’s most popular framework. We cover everything from routing, database integrations, user accounts, 
+ and more.
+ 
+ * [_Python Tutorial](https://www.guru99.com/python-tutorials.html) 
+
+
 
 ### Youtube
 
 * [_Corey Schafer_](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) Among the best Python Tutorial videos.
 
 * [_10 Python Tips and Tricks For Writing Better Code_](https://www.youtube.com/watch?v=C-gEQdGVXbk&feature=youtu.be) 
+
+* [_Python Programming for Network Engineers_](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn) A Youtube course on Python programming/automation for network engineers.
 
  
 ### Other Resources
