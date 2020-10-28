@@ -258,6 +258,8 @@ a massive variety of topics.
 * [_Clean architectures in Python: a step-by-step example_](
 https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
 
+* [_Python Tutorial](https://www.guru99.com/python-tutorials.html) 
+
 ### Youtube
 
 * [_Corey Schafer_](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) Among the best Python Tutorial videos.
