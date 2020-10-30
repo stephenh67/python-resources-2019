@@ -263,6 +263,9 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 * [_Flask Tutorial HackersAndSlackers_](https://hackersandslackers.com/series/build-flask-apps) Create web applications
  and APIs with Python’s most popular framework. We cover everything from routing, database integrations, user accounts, 
  and more.
+ 
+ * [_Python Tutorial](https://www.guru99.com/python-tutorials.html) 
+
 
 
 ### Youtube
