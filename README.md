@@ -1,5 +1,5 @@
 # Python-Resources-2019
-Updated 9/6/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
+Updated 10/30/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
 ### Books
@@ -76,6 +76,14 @@ an answer here.
 * [_Python 3.8.5 documentation_](https://docs.python.org/3/)
 
 * [_Quick sphinx primer_](http://scriptsonscripts.blogspot.com/2012/09/quick-sphinx-documentation-for-python.html)
+
+### Flask
+
+* [_The Flask Mega-Tutorial_](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+* [_Flask Tutorial HackersAndSlackers_](https://hackersandslackers.com/series/build-flask-apps) Create web applications
+ and APIs with Python’s most popular framework. We cover everything from routing, database integrations, user accounts, 
+ and more.
 
 ### Git
 
@@ -257,14 +265,8 @@ a massive variety of topics.
 
 * [_Clean architectures in Python: a step-by-step example_](
 https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
-
-* [_The Flask Mega-Tutorial_](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-
-* [_Flask Tutorial HackersAndSlackers_](https://hackersandslackers.com/series/build-flask-apps) Create web applications
- and APIs with Python’s most popular framework. We cover everything from routing, database integrations, user accounts, 
- and more.
  
- * [_Python Tutorial](https://www.guru99.com/python-tutorials.html) 
+ * [_Python Tutorial_](https://www.guru99.com/python-tutorials.html) 
 
 
 
