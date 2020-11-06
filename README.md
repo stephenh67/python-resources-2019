@@ -71,6 +71,19 @@ an answer here.
     - [_/r/PythonPuzzles_](https://www.reddit.com/r/PythonPuzzles/) ­— Regular code puzzles in the Python programming 
     languages
 
+### Django
+
+* [_Bootstrap_](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template) Get started with 
+Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with BootstrapCDN and a 
+template starter page.
+
+* [_Getting started with Django_](https://www.djangoproject.com/start/) The official tutorial.
+
+* [_Corey Schafer Python Django Tutorials_](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+In this series, we will be learning how to build a full-featured Django application for scratch. We will learn how to 
+get started with Django, use templates, create a database, upload pictures, create an authentication system, and much 
+much more.
+
 ### Documentation
 
 * [_Python 3.8.5 documentation_](https://docs.python.org/3/)
