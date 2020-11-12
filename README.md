@@ -87,6 +87,8 @@ much more.
 * [_Django Source Code_](https://github.com/django/django) Great for searching when looking for what text Django was 
 using by default but it wasn’t clear where in the Django source code it was written.
 
+* [_LearnDjango_](https://learndjango.com/) Django Tutorials: Up-to-date and covering the latest tools.
+
 ### Documentation
 
 * [_Python 3.8.5 documentation_](https://docs.python.org/3/)
