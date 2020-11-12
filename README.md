@@ -84,6 +84,9 @@ In this series, we will be learning how to build a full-featured Django applicat
 get started with Django, use templates, create a database, upload pictures, create an authentication system, and much 
 much more.
 
+* [_Django Source Code_](https://github.com/django/django) Great for searching when looking for what text Django was 
+using by default but it wasn’t clear where in the Django source code it was written.
+
 ### Documentation
 
 * [_Python 3.8.5 documentation_](https://docs.python.org/3/)
@@ -161,6 +164,8 @@ and data.
 development and clean, pragmatic design.
 
 * [_pipreqs_](https://github.com/bndr/pipreqs) Generate pip requirements.txt file based on imports of any project 
+
+* [_pipenv_](https://gist.github.com/bradtraversy/c70a93d6536ed63786c434707b898d55) Pipenv Cheat Sheet
 
 * [_pyGame_](https://pythonprogramming.net/pygame-python-3-part-1-intro/) Introduction to PyGame.
 
