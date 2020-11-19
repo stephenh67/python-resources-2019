@@ -80,10 +80,10 @@ template starter page.
 * [_Django, Docker, and PostgreSQL Tutorial_](https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial)
 In this tutorial we will create a new Django project using Docker and PostgreSQL. Django ships with built-in SQLite 
 support but even for local development you are better off using a "real" database like PostgreSQL that matches what 
-is in production.
+is in production. (pipenv)
 
 * [_Docker: Quickstart: Compose and Django_](https://docs.docker.com/compose/django/) This quick-start guide 
-demonstrates how to use Docker Compose to set up and run a simple Django/PostgreSQL app. 
+demonstrates how to use Docker Compose to set up and run a simple Django/PostgreSQL app. (venv) 
 
 * [_Getting started with Django_](https://www.djangoproject.com/start/) The official tutorial.
 
