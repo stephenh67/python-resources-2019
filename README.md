@@ -97,7 +97,7 @@ using by default but it wasn’t clear where in the Django source code it was wr
 
 ### Documentation
 
-* [_Python 3.8.5 documentation_](https://docs.python.org/3/)
+* [_Python 3.9 documentation_](https://docs.python.org/3/)
 
 * [_Quick sphinx primer_](http://scriptsonscripts.blogspot.com/2012/09/quick-sphinx-documentation-for-python.html)
 
@@ -108,6 +108,13 @@ using by default but it wasn’t clear where in the Django source code it was wr
 * [_Flask Tutorial HackersAndSlackers_](https://hackersandslackers.com/series/build-flask-apps) Create web applications
  and APIs with Python’s most popular framework. We cover everything from routing, database integrations, user accounts, 
  and more.
+
+### Free
+
+* [-Free for developers_](https://free-for.dev/#/) Developers and Open Source authors now have a massive amount of 
+services offering free tiers, but it can be hard to find them all to make informed decisions. This is a list of software
+(SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+
 
 ### Git
 
