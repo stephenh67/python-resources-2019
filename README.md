@@ -2,6 +2,11 @@
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
+
+### Charles Degraft- Johnson Resources
+* [_Learn Python 3 the Hard Way_](https://www.w3schools.com/python/default.asp) A simple explanation of Python programing
+
+
 ### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
@@ -321,3 +326,5 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+
