@@ -326,9 +326,9 @@ open data packages.
 
 ###  sources(brach) 
 
-* google 
+* google.com
 
 
-* youtube
+* youtub.com
 
 * you just need 2 of them
