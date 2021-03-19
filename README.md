@@ -324,26 +324,11 @@ open data packages.
 
 
 
- 
-### Nurlan's Learnning sources 
+###  sources(brach) 
 
-* [_freecodecamp_](https://www.youtube.com/watch?v=8DvywoWv6fI&t=122s&ab_channel=freeCodeCamp.org) it is very good youtube channel you can learn coding 
-
-
-* [_stepbystep_](http://pythontutor.com/) so easy to understand codes , show every step it is to easy to follow code struture
+* google 
 
 
-* [_Coursera_](https://www.coursera.org/) there are so many python course which provieded by  universities or comapanies
+* youtube
 
-
-
- 
-### Brach edditing part 
-
-*  search in youtube 
-
-
-* search in google  
-
-
-*  that is all waht you need 
+* you just need 2 of them
