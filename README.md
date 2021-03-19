@@ -322,4 +322,8 @@ open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
 
-*[ Geeks for Geeks ] (https://www.geeksforgeeks.org/python-programming-language/) Great resource website.
+* [ Geeks for Geeks ] (https://www.geeksforgeeks.org/python-programming-language/) Great resource website.
+
+* [ Git and GitHub in plain English] (https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english) Easy way to learn Git and GitHub.
+
+* [ Edabit ] (https://edabit.com/challenges) Great place to get better habilities with python.
