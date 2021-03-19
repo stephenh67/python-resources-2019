@@ -321,4 +321,16 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
-"hello hello aaaaaaaaaaaaaaaaaaaa"
+
+
+
+ 
+### Nurlan's Learnning sources 
+
+* [_freecodecamp_](https://www.youtube.com/watch?v=8DvywoWv6fI&t=122s&ab_channel=freeCodeCamp.org) it is very good youtube channel you can learn coding 
+
+
+* [_stepbystep_](http://pythontutor.com/) so easy to understand codes , show every step it is to easy to follow code struture
+
+
+* [_Coursera_](https://www.coursera.org/) there are so many python course which provieded by  universities or comapanies
