@@ -334,3 +334,16 @@ open data packages.
 
 
 * [_Coursera_](https://www.coursera.org/) there are so many python course which provieded by  universities or comapanies
+
+
+
+ 
+### Brach edditing part 
+
+*  search in youtube 
+
+
+* search in google  
+
+
+*  that is all waht you need 
