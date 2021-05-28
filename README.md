@@ -2,7 +2,7 @@
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
-### Books:
+### Slides:
 
 https://drive.google.com/file/d/1CyG_Ao45Cv75z877RtUureTCiGr_56Rl/view?usp=sharing
 
@@ -20,8 +20,14 @@ https://github.com/Strive-School/ai_may21/tree/master/1.%20Python/03.%20Introduc
 
 
 
-Exercises:
+### Books
 
+* [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
+new to python. Note there's earlier version _Learn Python the Hard Way_ that covers Python 2.
+  
+* [_Learning Python_](http://shop.oreilly.com/product/0636920028154.do) Get a comprehensive, in-depth introduction to 
+the core Python language with this hands-on book.Complete with quizzes, exercises, and helpful illustrations, this 
+easy-to-follow, self-paced tutorial gets you started with both Python 2.x and 3.x
 https://github.com/Strive-School/ai_may21/tree/master/1.%20Python/03.%20Introduction%20to%20Python/02_exercises
 
  
