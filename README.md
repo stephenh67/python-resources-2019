@@ -1,5 +1,7 @@
 # Python-Resources-2019
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
+Updated 11/12/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
+
 additions to the list please open an issue.
 
 ### Slides:
@@ -126,6 +128,8 @@ much more.
 * [_Django Source Code_](https://github.com/django/django) Great for searching when looking for what text Django was 
 using by default but it wasn’t clear where in the Django source code it was written.
 
+* [_LearnDjango_](https://learndjango.com/) Django Tutorials: Up-to-date and covering the latest tools.
+
 ### Documentation
 
 * [_Python 3.9 documentation_](https://docs.python.org/3/)
@@ -169,7 +173,7 @@ libraries. Basic and advanced topics.
 * [_Program Arcade Games With Python And Pygame_](http://programarcadegames.com/)
 
 * [_PySimpleGUI_](https://pysimplegui.readthedocs.io/en/latest/) Python GUI For Humans - Transforms tkinter, Qt, Remi, 
-WxPython into a people-friendly Pythonic interfaces
+WxPython into a people-friendly Pythonic interfaces.
 
 * [_Tkinter Tutorial_](https://likegeeks.com/python-gui-examples-tkinter-tutorial/) Learn how to develop graphical 
 user interfaces by writing some Python GUI examples using Tkinter package.
