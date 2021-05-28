@@ -1,6 +1,39 @@
 # Python-Resources-2019
+Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 Updated 11/12/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
+
 additions to the list please open an issue.
+
+### Slides:
+
+https://drive.google.com/file/d/1CyG_Ao45Cv75z877RtUureTCiGr_56Rl/view?usp=sharing
+
+
+
+Available here:
+
+https://github.com/Strive-School/ai_may21
+
+
+
+Workbooks:
+
+https://github.com/Strive-School/ai_may21/tree/master/1.%20Python/03.%20Introduction%20to%20Python/01_workbooks
+
+
+
+### Books
+
+* [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
+new to python. Note there's earlier version _Learn Python the Hard Way_ that covers Python 2.
+  
+* [_Learning Python_](http://shop.oreilly.com/product/0636920028154.do) Get a comprehensive, in-depth introduction to 
+the core Python language with this hands-on book.Complete with quizzes, exercises, and helpful illustrations, this 
+easy-to-follow, self-paced tutorial gets you started with both Python 2.x and 3.x
+https://github.com/Strive-School/ai_may21/tree/master/1.%20Python/03.%20Introduction%20to%20Python/02_exercises
+
+ 
+
 
 ### Books
 
@@ -77,6 +110,14 @@ an answer here.
 Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with BootstrapCDN and a 
 template starter page.
 
+* [_Django, Docker, and PostgreSQL Tutorial_](https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial)
+In this tutorial we will create a new Django project using Docker and PostgreSQL. Django ships with built-in SQLite 
+support but even for local development you are better off using a "real" database like PostgreSQL that matches what 
+is in production. (pipenv)
+
+* [_Docker: Quickstart: Compose and Django_](https://docs.docker.com/compose/django/) This quick-start guide 
+demonstrates how to use Docker Compose to set up and run a simple Django/PostgreSQL app. (venv) 
+
 * [_Getting started with Django_](https://www.djangoproject.com/start/) The official tutorial.
 
 * [_Corey Schafer Python Django Tutorials_](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
@@ -91,7 +132,7 @@ using by default but it wasn’t clear where in the Django source code it was wr
 
 ### Documentation
 
-* [_Python 3.8.5 documentation_](https://docs.python.org/3/)
+* [_Python 3.9 documentation_](https://docs.python.org/3/)
 
 * [_Quick sphinx primer_](http://scriptsonscripts.blogspot.com/2012/09/quick-sphinx-documentation-for-python.html)
 
@@ -102,6 +143,13 @@ using by default but it wasn’t clear where in the Django source code it was wr
 * [_Flask Tutorial HackersAndSlackers_](https://hackersandslackers.com/series/build-flask-apps) Create web applications
  and APIs with Python’s most popular framework. We cover everything from routing, database integrations, user accounts, 
  and more.
+
+### Free
+
+* [_Free for developers_](https://free-for.dev/#/) Developers and Open Source authors now have a massive amount of 
+services offering free tiers, but it can be hard to find them all to make informed decisions. This is a list of software
+(SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
+
 
 ### Git
 
