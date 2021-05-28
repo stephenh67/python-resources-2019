@@ -2,6 +2,31 @@
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
+### Slides:
+
+https://drive.google.com/file/d/1CyG_Ao45Cv75z877RtUureTCiGr_56Rl/view?usp=sharing
+
+
+
+Available here:
+
+https://github.com/Strive-School/ai_may21
+
+
+
+Workbooks:
+
+https://github.com/Strive-School/ai_may21/tree/master/1.%20Python/03.%20Introduction%20to%20Python/01_workbooks
+
+
+
+Exercises:
+
+https://github.com/Strive-School/ai_may21/tree/master/1.%20Python/03.%20Introduction%20to%20Python/02_exercises
+
+ 
+
+
 ### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
