@@ -2,7 +2,7 @@
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
-### Slides:
+### Books:
 
 https://drive.google.com/file/d/1CyG_Ao45Cv75z877RtUureTCiGr_56Rl/view?usp=sharing
 
