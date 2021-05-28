@@ -1,6 +1,4 @@
 def breaking_git():
-    for i in range(5):
-        print("Hi")
-
+print("Hello World")
 
 breaking_git()
