@@ -320,4 +320,4 @@ community.
 * [_DatahubIO_](https://datahub.io/) Datahub provides important, commonly-used data as high quality, easy-to-use and 
 open data packages.
 
-* [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+* [_ImageFu_](https://www.imagefu.com/) A bad tool to create button images.
