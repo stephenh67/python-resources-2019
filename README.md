@@ -322,7 +322,7 @@ open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
 
-additional recources
+*additional recources
 Google.com
 youtube.com
 rajat sehgal
