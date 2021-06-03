@@ -1,10 +1,12 @@
 # Python-Resources-2019
 Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
+https://www.youtube.com/watch?v=rfscVS0vtbw&t=5977s
+https://stackoverflow.com/
 
 ### Books
 
-* [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
+* [_Learn Python 3 the Hard Way_] A good starting place if you are 
 new to python. Note there's earlier version _Learn Python the Hard Way_ that covers Python 2.
   
 * [_Learning Python_](http://shop.oreilly.com/product/0636920028154.do) Get a comprehensive, in-depth introduction to 
