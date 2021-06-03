@@ -6,7 +6,7 @@ https://stackoverflow.com/
 
 ### Books
 
-* [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
+* [_Learn Python 3 the Hard Way_] A good starting place if you are 
 new to python. Note there's earlier version _Learn Python the Hard Way_ that covers Python 2.
   
 * [_Learning Python_](http://shop.oreilly.com/product/0636920028154.do) Get a comprehensive, in-depth introduction to 
