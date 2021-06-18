@@ -116,6 +116,9 @@ services offering free tiers, but it can be hard to find them all to make inform
 (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 
 
+* [_Python projects_](https://www.codementor.io/projects/python) Learn Python by working with curated projects. Use DevProjects to bridge the gap between theory and real-world code. Use it as practice or to enhance your portfolio.
+
+
 ### Git
 
 * [_GitHub Help_](https://help.github.com/en#dotcom) Help with all things Git.
@@ -321,3 +324,5 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+* [_Python_experts_](https://www.codementor.io/python-experts) Have a problem you can't solve? Get help from a Python expert.
