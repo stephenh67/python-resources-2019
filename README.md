@@ -300,6 +300,8 @@ a massive variety of topics.
 https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
  
  * [_Python Tutorial_](https://www.guru99.com/python-tutorials.html) 
+ * [Scaler Topics](https://www.scaler.com/topics/python/)
+ 
 
 
 
