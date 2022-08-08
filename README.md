@@ -321,3 +321,5 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+* [Explore Python](https://kandi.openweaver.com/explore/python) Discover a curated list of popular & new  libraries, top authors, tranding kits, discussions, tutorials & learning resources.
