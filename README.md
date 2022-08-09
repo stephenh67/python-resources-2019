@@ -45,7 +45,6 @@ provides a free 3 month (renewable) Educational License for the complete JetBrai
 * [_CheckIO_](https://checkio.org/) Coding games for beginners and advanced programmers where you can improve your
 coding skills by solving engaging challenges and fun task using Python, has PyCharm integration.
 
-
 * [_Codewars_](https://www.codewars.com/) is where developers achieve code mastery through challenge. Train on kata
 in the dojo and reach your highest potential.
 
@@ -126,7 +125,7 @@ using by default but it wasn’t clear where in the Django source code it was wr
 services offering free tiers, but it can be hard to find them all to make informed decisions. This is a list of software
 (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 
-*[_Happy Coding_](https://www.freecodecamp.org/learn) Practice is the key. Practice, practice, practice.
+* [_Happy Coding: freecodecamp_](https://www.freecodecamp.org/learn) Practice is the key. Practice, practice, practice.
 
 * [_Python projects_](https://www.codementor.io/projects/python) Learn Python by working with curated projects. Use DevProjects to bridge the gap between theory and real-world code. Use it as practice or to enhance your portfolio.
 
@@ -215,16 +214,13 @@ Python modules, in a little to no order whatsoever…
 * [_w3resource's Python Exercises_](https://www.w3resource.com/python-exercises/), 100s of exercises with solutions,
 includes several external packages.
 
-
 * [_Practice Python_](http://www.practicepython.org/) Over 30 beginner Python exercises with solutions
 
 * [_100+ Python challenging programming exercises_](https://github.com/zhiwehu/Python-programming-exercises)
 
 * [_Real-World Python Projects_](https://www.codementor.io/projects/python), A variety of easy, medium, and difficult projects with community solutions and discussion boards
 
-
 * [_Exercism_](https://exercism.io/tracks/python) Code practice and mentorship for everyone
-
 
 * [_Google Education_](https://developers.google.com/edu) Develop with Google for Education
 
@@ -354,9 +350,9 @@ open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
 
-* [_Geeks for Geeks_] (https://www.geeksforgeeks.org/python-programming-language/) Great resource website.
+* [_Geeks for Geeks_](https://www.geeksforgeeks.org/python-programming-language/) Great resource website.
 
-* [ Edabit ] (https://edabit.com/challenges) Great place to get better habilities with python.
+* [ Edabit ](https://edabit.com/challenges) Great place to get better habilities with python.
 
 * [_Python_experts_](https://www.codementor.io/python-experts) Have a problem you can't solve? Get help from a Python expert.
 
