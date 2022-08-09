@@ -138,7 +138,7 @@ services offering free tiers, but it can be hard to find them all to make inform
 
 * [_Learn Git Branching_](https://learngitbranching.js.org/)
 
-* [ Git and GitHub in plain English] (https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english) Easy way to learn Git and GitHub.
+* [_Git and GitHub in plain English_](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english) Easy way to learn Git and GitHub.
 
 ### GUI related
 
