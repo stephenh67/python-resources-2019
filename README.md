@@ -31,7 +31,7 @@ https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
 * [_Good explanation of Python Functions on programiz_](https://www.programiz.com/python-programming/methods)
 
-* [_Lots of Python Code Snips_](https://www.geeksforgeeks.org/)
+* [_Lots of Python Code Snips_](https://www.geeksforgeeks.org/python-programming-language/)
 
 ### Classes
 
