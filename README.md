@@ -125,6 +125,7 @@ using by default but it wasn’t clear where in the Django source code it was wr
 services offering free tiers, but it can be hard to find them all to make informed decisions. This is a list of software
 (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 
+*[_Happy Coding_](https://www.freecodecamp.org/learn) Practice is the key. Practice, practice, practice.
 
 ### Git
 
@@ -212,6 +213,12 @@ includes several external packages.
 * [_Practice Python_](http://www.practicepython.org/) Over 30 beginner Python exercises with solutions
 
 * [_100+ Python challenging programming exercises_](https://github.com/zhiwehu/Python-programming-exercises)
+
+
+* [_Exercism_](https://exercism.io/tracks/python) Code practice and mentorship for everyone
+
+
+* [_Google Education_](https://developers.google.com/edu) Develop with Google for Education
 
 ### Python Cheat Sheets
 
