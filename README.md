@@ -2,6 +2,14 @@
 Updated 8/8/2022 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
+
+### Charles Degraft- Johnson Resources
+* [_Learn Python 3 the Hard Way_](https://www.w3schools.com/python/default.asp) A simple explanation of Python programing
+
+* [_Good explanation of Python Functions on programiz_]( https://www.programiz.com/python-programming/methods
+
+* [_Lots of Python Code Snips_]( https://www.geeksforgeeks.org/
+
 ### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
