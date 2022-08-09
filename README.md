@@ -1,6 +1,15 @@
 # Python-Resources-2019
-Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for
+
+Updated 8/8/2022 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
+
+
+### Charles Degraft- Johnson Resources
+* [_Learn Python 3 the Hard Way_](https://www.w3schools.com/python/default.asp) A simple explanation of Python programing
+
+* [_Good explanation of Python Functions on programiz_]( https://www.programiz.com/python-programming/methods
+
+* [_Lots of Python Code Snips_]( https://www.geeksforgeeks.org/
 
 ### Books
 
@@ -21,6 +30,8 @@ programming.
 https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
 * [_Python Cookbook: Recipes for Mastering Python 3_](https://www.amazon.ca/Python-Cookbook-Recipes-Mastering-ebook/dp/B00DQV4GGY) - If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket.
+
+* [_Publishing Python Packages_](https://www.manning.com/books/publishing-python-packages) - Create Python packages to share your code in a scalable and maintainable way.
 
 ### Classes
 
@@ -115,6 +126,10 @@ using by default but it wasn’t clear where in the Django source code it was wr
 services offering free tiers, but it can be hard to find them all to make informed decisions. This is a list of software
 (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 
+*[_Happy Coding_](https://www.freecodecamp.org/learn) Practice is the key. Practice, practice, practice.
+
+* [_Python projects_](https://www.codementor.io/projects/python) Learn Python by working with curated projects. Use DevProjects to bridge the gap between theory and real-world code. Use it as practice or to enhance your portfolio.
+
 
 ### Git
 
@@ -204,6 +219,13 @@ includes several external packages.
 * [_100+ Python challenging programming exercises_](https://github.com/zhiwehu/Python-programming-exercises)
 
 * [_Real-World Python Projects_](https://www.codementor.io/projects/python), A variety of easy, medium, and difficult projects with community solutions and discussion boards
+
+
+* [_Exercism_](https://exercism.io/tracks/python) Code practice and mentorship for everyone
+
+
+* [_Google Education_](https://developers.google.com/edu) Develop with Google for Education
+
 
 ### Python Cheat Sheets
 
@@ -299,9 +321,15 @@ devices and platforms.
 a massive variety of topics.
 
 * [_Clean architectures in Python: a step-by-step example_](
-https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
+https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example
 
  * [_Python Tutorial_](https://www.guru99.com/python-tutorials.html)
+
+ 
+ * [_Python Tutorial_](https://www.guru99.com/python-tutorials.html) 
+ * [Scaler Topics](https://www.scaler.com/topics/python/)
+ 
+
 
 
 
@@ -323,3 +351,8 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+* [_Python_experts_](https://www.codementor.io/python-experts) Have a problem you can't solve? Get help from a Python expert.
+
+* [Explore Python](https://kandi.openweaver.com/explore/python) Discover a curated list of popular & new  libraries, top authors, tranding kits, discussions, tutorials & learning resources.
+
