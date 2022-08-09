@@ -3,14 +3,6 @@
 Updated 8/8/2022 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
-
-### Charles Degraft- Johnson Resources
-* [_Learn Python 3 the Hard Way_](https://www.w3schools.com/python/default.asp) A simple explanation of Python programing
-
-* [_Good explanation of Python Functions on programiz_]( https://www.programiz.com/python-programming/methods
-
-* [_Lots of Python Code Snips_]( https://www.geeksforgeeks.org/
-
 ### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are
@@ -32,6 +24,14 @@ https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 * [_Python Cookbook: Recipes for Mastering Python 3_](https://www.amazon.ca/Python-Cookbook-Recipes-Mastering-ebook/dp/B00DQV4GGY) - If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket.
 
 * [_Publishing Python Packages_](https://www.manning.com/books/publishing-python-packages) - Create Python packages to share your code in a scalable and maintainable way.
+
+### Charles Degraft-Johnson Resources
+
+* [_Learn Python 3 the Hard Way_](https://www.w3schools.com/python/default.asp) A simple explanation of Python programing
+
+* [_Good explanation of Python Functions on programiz_](https://www.programiz.com/python-programming/methods)
+
+* [_Lots of Python Code Snips_](https://www.geeksforgeeks.org/)
 
 ### Classes
 
@@ -138,6 +138,8 @@ services offering free tiers, but it can be hard to find them all to make inform
 * [_Github Profile Readme Templates_](https://github.com/suryakantamangaraj/GithubProfileReadmeTemplates) A curated list of awesome Github Profile Readme Templates.
 
 * [_Learn Git Branching_](https://learngitbranching.js.org/)
+
+* [ Git and GitHub in plain English] (https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english) Easy way to learn Git and GitHub.
 
 ### GUI related
 
@@ -352,10 +354,7 @@ open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
 
-
-* [ Geeks for Geeks ] (https://www.geeksforgeeks.org/python-programming-language/) Great resource website.
-
-* [ Git and GitHub in plain English] (https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english) Easy way to learn Git and GitHub.
+* [_Geeks for Geeks_] (https://www.geeksforgeeks.org/python-programming-language/) Great resource website.
 
 * [ Edabit ] (https://edabit.com/challenges) Great place to get better habilities with python.
 
