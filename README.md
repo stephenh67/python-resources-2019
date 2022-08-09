@@ -1,5 +1,5 @@
 # Python-Resources-2019
-Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
+Updated 8/8/2022 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
 
@@ -29,6 +29,8 @@ programming.
 https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
 * [_Python Cookbook: Recipes for Mastering Python 3_](https://www.amazon.ca/Python-Cookbook-Recipes-Mastering-ebook/dp/B00DQV4GGY) - If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket.
+
+* [_Publishing Python Packages_](https://www.manning.com/books/publishing-python-packages) - Create Python packages to share your code in a scalable and maintainable way.
 
 ### Classes
 
@@ -330,4 +332,4 @@ open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
 
-
+* [Explore Python](https://kandi.openweaver.com/explore/python) Discover a curated list of popular & new  libraries, top authors, tranding kits, discussions, tutorials & learning resources.
