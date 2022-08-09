@@ -332,7 +332,7 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 
 * [_Corey Schafer_](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) Among the best Python Tutorial videos.
 
-* {_Tech with Tim: Python_](https://www.youtube.com/results?search_query=tech+with+tim+python) Another youtube favourite
+* [_Tech with Tim: Python_](https://www.youtube.com/results?search_query=tech+with+tim+python) Another youtube favourite
 
 * [_10 Python Tips and Tricks For Writing Better Code_](https://www.youtube.com/watch?v=C-gEQdGVXbk&feature=youtu.be)
 
