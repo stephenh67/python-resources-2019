@@ -3,6 +3,12 @@
 Updated 8/8/2022 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
+### Specialised Searching
+
+* [_Google - Advanced Searching_](https://www.google.ca/advanced_search) Google advanced searching, filters, filters, filters!
+
+* [_YouCode_](https://you.com/code) A code centric search engine
+
 ### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are
