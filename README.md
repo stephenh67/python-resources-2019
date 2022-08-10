@@ -33,7 +33,7 @@ https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
 ### Charles Degraft-Johnson Resources
 
-* [_Learn Python 3 the Hard Way_](https://www.w3schools.com/python/default.asp) A simple explanation of Python programing
+* [_W3 Schools Python Tutorial_](https://www.w3schools.com/python/default.asp) A simple explanation of Python programing
 
 * [_Good explanation of Python Functions on programiz_](https://www.programiz.com/python-programming/methods)
 
@@ -86,8 +86,7 @@ an answer here.
     common projects, whether it is learning or developing or designing or what have you.
     - [_/r/LearnMachineLearning_](https://www.reddit.com/r/LearnMachineLearning/) — A subreddit dedicated for
     learning machine learning.
-    - [_/r/PythonPuzzles_](https://www.reddit.com/r/PythonPuzzles/) ­— Regular code puzzles in the Python programming
-    languages
+    
 
 ### Django
 
