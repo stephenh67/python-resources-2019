@@ -41,7 +41,7 @@ https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
 ### Classes
 
-* [_Python Programming MOOC 2022_](https://programming-22.mooc.fi/) Introduction to Programming course (BSCS1001, 5 cr) and the Advanced Course in Programming (BSCS1002, 5 cr) from the Department of Computer Science at the University of Helsinki. Both are fee worldwide!
+* [_Python Programming MOOC 2022_](https://programming-22.mooc.fi/) Introduction to Programming course (BSCS1001, 5 cr) and the Advanced Course in Programming (BSCS1002, 5 cr) from the Department of Computer Science at the University of Helsinki. Both are free worldwide!
 
 * [_JetBrains Academy_](https://www.jetbrains.com/academy/)  Free trial on JetBrains Academy. If you are looking for a complete course start here, the Python track. "It's a one-stop shop for reading about concepts, practicing them and then immediately applying them in projects. An all-in-one learning tool."
 
