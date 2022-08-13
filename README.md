@@ -341,7 +341,7 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 
 * [_Tech with Tim: Python_](https://www.youtube.com/results?search_query=tech+with+tim+python) Another youtube favourite
 
-* [_Mariya's Python Simplified_](https://www.youtube.com/c/PythonSimplified/about) Great detailed introductions to various topics. 
+* [_Mariya's Python Simplified_](https://www.youtube.com/c/PythonSimplified) Great detailed introductions to various topics. 
 
 * [_10 Python Tips and Tricks For Writing Better Code_](https://www.youtube.com/watch?v=C-gEQdGVXbk&feature=youtu.be)
 
