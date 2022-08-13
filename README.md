@@ -332,7 +332,7 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 
  * [_Python Tutorial_](https://www.guru99.com/python-tutorials.html) 
  
- * [Scaler Topics](https://www.scaler.com/topics/python/)
+ * [_Scaler Topics_](https://www.scaler.com/topics/python/)
  
 
 ### Youtube
@@ -340,6 +340,8 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 * [_Corey Schafer_](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) Among the best Python Tutorial videos.
 
 * [_Tech with Tim: Python_](https://www.youtube.com/results?search_query=tech+with+tim+python) Another youtube favourite
+
+* [_Mariya's Python Simplified_](https://www.youtube.com/c/PythonSimplified/about) Great detailed introductions to various topics. 
 
 * [_10 Python Tips and Tricks For Writing Better Code_](https://www.youtube.com/watch?v=C-gEQdGVXbk&feature=youtu.be)
 
