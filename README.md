@@ -194,7 +194,11 @@ and designed by and for scientists, engineers and data analysts.
 
 * [_Jupyter_](https://www.jupyter.org) JupyterLab is a web-based interactive development environment for Jupyter notebooks, code,
 and data.
+
 ### Packages
+
+* [_MechanicalSoup_](https://github.com/MechanicalSoup/MechanicalSoup) A Python library for automating interaction with websites. 
+MechanicalSoup automatically stores and sends cookies, follows redirects, and can follow links and submit forms. It doesn’t do Javascript.
 
 * [_BeautifulSoup_](https://www.dataquest.io/blog/web-scraping-tutorial-python/) Python Web Scraping Using BeautifulSoup
 
