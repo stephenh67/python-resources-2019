@@ -168,7 +168,7 @@ user interfaces by writing some Python GUI examples using Tkinter package.
 
 ### HTML
 
-*[_pyscript_](https://github.com/pyscript/pyscript) Run python files inside html. PyScript is a Pythonic alternative to Scratch, JSFiddle, and other "easy to use" programming frameworks, with the goal of making the web a friendly, hackable place where anyone can author interesting and interactive applications.
+* [_pyscript_](https://github.com/pyscript/pyscript) Run python files inside html. PyScript is a Pythonic alternative to Scratch, JSFiddle, and other "easy to use" programming frameworks, with the goal of making the web a friendly, hackable place where anyone can author interesting and interactive applications.
 
 * [_CodePen_](https://codepen.io/pen/) An online code editor, learning environment, and community for front-end web
 development using HTML, CSS and JavaScript code snippets.
