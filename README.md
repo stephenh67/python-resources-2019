@@ -1,6 +1,6 @@
 # Python-Resources-2019
 
-Updated 8/8/2022 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
+Updated 8/22/2022 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
 ### Specialised Searching
@@ -93,6 +93,9 @@ an answer here.
 * [_Bootstrap_](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template) Get started with
 Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with BootstrapCDN and a
 template starter page.
+
+* [_Django Classy Class-Based Views_](https://ccbv.co.uk/) Detailed descriptions, with full methods and attributes, 
+for each of Django's class-based generic views.
 
 * [_Django, Docker, and PostgreSQL Tutorial_](https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial)
 In this tutorial we will create a new Django project using Docker and PostgreSQL. Django ships with built-in SQLite
