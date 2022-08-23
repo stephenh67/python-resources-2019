@@ -9,6 +9,11 @@ additions to the list please open an issue.
 
 * [_YouCode_](https://you.com/code) A code centric search engine
 
+
+### API's
+
+* [_Public APIs_](https://github.com/public-apis/public-apis) A collective list of 1400+ free APIs for use in software and web development.
+
 ### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are
