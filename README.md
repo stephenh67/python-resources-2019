@@ -107,6 +107,8 @@ In this tutorial we will create a new Django project using Docker and PostgreSQL
 support but even for local development you are better off using a "real" database like PostgreSQL that matches what
 is in production. (pipenv)
 
+* [_Django documentation_](https://docs.djangoproject.com/en/4.1/) Everything you need to know about Django.
+
 * [_Docker: Quickstart: Compose and Django_](https://docs.docker.com/compose/django/) This quick-start guide
 demonstrates how to use Docker Compose to set up and run a simple Django/PostgreSQL app. (venv)
 
