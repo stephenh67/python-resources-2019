@@ -350,6 +350,7 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
  
  * [_Scaler Topics_](https://www.scaler.com/topics/python/)
  
+ * [_Python Guide_](https://wiingy.com/learn/python/python-tutorial/)
 
 ### Youtube
 
